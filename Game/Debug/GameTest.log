@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\neonf\Documents\Comp_Sci\GameTest\GameTest\Game.h(22,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\neonf\Documents\Comp_Sci\GameTest\GameTest\Main.cpp(8,53): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\neonf\Documents\Comp_Sci\GameTest\GameTest\Main.cpp(8,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  GameTest.vcxproj -> C:\Users\neonf\Documents\Comp_Sci\GameTest\Debug\GameTest.exe
